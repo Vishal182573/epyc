@@ -1,4 +1,4 @@
-import LOGO from "./Logo2"
+import LOGO from "./logomain.png"
 import PHONE from "./phone.png"
 import SIDEPHONE from "./sidephone.png"
 
